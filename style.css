@@ -1,4 +1,6 @@
 body {
+  display: flex;  
+  justify-content: center;  
   background: #f9fafb;
   color: #333;
   display: flex;
