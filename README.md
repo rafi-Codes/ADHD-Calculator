@@ -24,3 +24,5 @@ Each answer maps to a score (Never = 0, Very Often = 4). The total score is used
 - **Moderate score:** Some traits present; consider learning more  
 - **High score:** Many traits observed; consider consulting a professional  
 
+## Live Link 
+- [Link] (https://adhd-calculator-rafi.vercel.app/)
